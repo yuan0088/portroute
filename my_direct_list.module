@@ -1,0 +1,6 @@
+#!name=mydirect_list
+#!desc=Rules:3 Created:05-31 06:34 
+[Rule]
+DOMAIN-SUFFIX,mon.zijieapi.com,DIRECT
+DOMAIN-SUFFIX,mon.snssdk.com,DIRECT
+DOMAIN-SUFFIX,ib.snssdk.com,DIRECT
